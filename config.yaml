@@ -1,0 +1,14 @@
+MODEL: "GPT2" # Update the model choice to GPT2
+GPT2_MODEL: "gpt2-large" # Specify the GPT-2 model you want to use
+
+MAX_TOKENS: 300
+TEMPERATURE: 0.0
+REQUEST_INTERVAL: 10
+
+ANDROID_SCREENSHOT_DIR: "/sdcard"
+ANDROID_XML_DIR: "/sdcard"
+
+DOC_REFINE: false
+MAX_ROUNDS: 20
+DARK_MODE: false
+MIN_DIST: 30
